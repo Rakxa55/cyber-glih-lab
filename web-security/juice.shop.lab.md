@@ -10,4 +10,4 @@ Completed Challenges:
     - [x] **Confidential Document (Sensitive Data Exposure):** Berhasil menemukan dan mengunduh dokumen rahasia `acquisitions.md` melalui direktori penyimpanan terbuka `/ftp`.
     - [x] **Poison Null Byte:** Berhasil mengunduh file sensitif bertipe terlarang (`.bak`) menggunakan teknik URL encoding `%2500.md` pada direktori `/ftp`.
     - [x] **DOM XSS:** Berhasil mengeksekusi script pemicu pop-up alert menggunakan payload `<iframe src="javascript:alert(`xss`)">` pada kolom pencarian.
-    
+    - [x] **View Basket (IDOR):** Berhasil melihat keranjang belanja pengguna lain dengan memanipulasi parameter `bid` (Basket ID) pada Session Storage browser.
