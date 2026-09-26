@@ -1,4 +1,4 @@
-# 🧪 Cyber Glih Lab
+# 🧪 glh CyberLab
 
 Repository ini berisi dokumentasi aktivitas *Cybersecurity*, analisis penganalisaan jaringan, pengetesan celah aplikasi web, serta *writeup* penyelesaian tantangan CTF / TryHackMe.
 
